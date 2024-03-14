@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/nvmabdu" target="blank"><img src="https://img.shields.io/twitter/follow/nvmabdu?logo=twitter&style=for-the-badge" alt="nvmabdu" /></a> </p>
 
-- 🔭 I’m currently working on [Tickodo](https://github.com/abduvert/Tickodo)
+- 🔭 I’m currently working on CartQuest(https://github.com/abduvert/WEBTECH)
 
-- 🌱 I’m currently learning **Django,Rust and Flutter**
+- 🌱 I’m currently learning **Web Technologies, AI and Digital Image processing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abduvert](https://github.com/abduvert)
 
-- 💬 Ask me about **Flutter and Java**
+- 💬 Ask me about **Flutter, Java and Python**
 
 - 📫 How to reach me **sajjadabdullah345@gmail.com**
 

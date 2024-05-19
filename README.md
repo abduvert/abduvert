@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdullah Sajjad</h1>
-<h3 align="center">A passionate Computer Science student with a knack for crafting immersive mobile applications. Over the past year, I've delved deep into the realm of Flutter development, harnessing its power to build captivating user interfaces and seamless experiences.</h3>
+<h1 align="center">Hi 👋, Abdullah Sajjad</h1>
+<h3 align="center">Computer Science student passionate about learning new technologies and creating innovative mobile applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abduvert&label=Profile%20views&color=0e75b6&style=flat" alt="abduvert" /> </p>
 

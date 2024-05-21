@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Abdullah Sajjad</h1>
+<h1 align="center">Abdullah Sajjad here!</h1>
 <h3 align="center">Computer Science student passionate about learning new technologies and creating innovative mobile applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abduvert&label=Profile%20views&color=0e75b6&style=flat" alt="abduvert" /> </p>

@@ -1,37 +1,73 @@
-<h1 align="center">Abdullah Sajjad here!</h1>
-<h3 align="center">Computer Science student passionate about learning new technologies and creating innovative mobile applications.</h3>
+<h1 align="center">Abdullah Sajjad</h1>
+<h3 align="center">Flutter & Front-End Developer | Mobile & Web Applications | Clean Architecture & Scalable UI/UX</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abduvert&label=Profile%20views&color=0e75b6&style=flat" alt="abduvert" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abduvert" alt="abduvert" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nvmabdu" target="blank"><img src="https://img.shields.io/twitter/follow/nvmabdu?logo=twitter&style=for-the-badge" alt="nvmabdu" /></a> </p>
-
-- 🔭 I’m currently working on CartQuest(https://github.com/abduvert/WEBTECH)
-
-- 🌱 I’m currently learning **Web Technologies, AI and Digital Image processing**
-
-- 👨‍💻 All of my projects are available at [https://github.com/abduvert](https://github.com/abduvert)
-
-- 💬 Ask me about **Flutter, Java and Python**
-
-- 📫 How to reach me **sajjadabdullah345@gmail.com**
-
-- ⚡ Fun fact **I have a great interest when it comes to photography or videography**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nvmabdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nvmabdu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abduvert7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abduvert7" height="30" width="40" /></a>
-<a href="https://instagram.com/abduvert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abduvert" height="30" width="40" /></a>
-<a href="https://medium.com/@abduvert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abduvert" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/abduvert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abduvert" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abduvert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abduvert" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/abduvert"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abduvert7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sajjadabdullah345@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://abduvert.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abduvert&show_icons=true&locale=en&layout=compact" alt="abduvert" /></p>
+## 👨‍💻 About Me
+I am a **Flutter & Front-End Developer** with experience building production-ready mobile and web applications. I specialize in **cross-platform mobile apps, clean architecture, performance optimization, scalable state management, and cloud integration**. My focus is on delivering **intuitive and performant user experiences** across healthcare, social, and service platforms.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abduvert&show_icons=true&locale=en" alt="abduvert" /></p>
+---
+
+## 🚀 Skills
+
+**Programming Languages:** Dart, JavaScript, Python, Java, C  
+**Frameworks & Libraries:** Flutter, Riverpod, Bloc, Next.js, React, Material UI, Tailwind CSS  
+**Backend & Databases:** Firebase, Supabase, MongoDB, SQL Server, Node.js  
+**Tools & Platforms:** Git, VS Code, Android Studio, Figma, Jira, Postman, AWS, Vercel  
+**Other Skills:** UI/UX Design, Clean Architecture, REST/GraphQL APIs, Test-Driven Development, Agile
+
+---
+
+## 🏆 Professional Experience
+
+### Front-End Developer | KNOWA Tech (Mar 2025 – Present)
+- Core Flutter development for **AiCenna**, a healthcare platform: caching, localization, cloud sync, wearable integration.  
+- Built admin dashboards, permission management, and analytics tools for web and mobile.  
+- Integrated Stripe and custom map overlays for the **Money Drop** project.  
+- Designed UI/UX flows in **Figma**, ensuring consistency across mobile screens.
+
+### Front-End Developer | U.n.I (Feb 2025 – Present)
+- Developed **U.n.I**, a social AI platform with Flutter, Riverpod, and Django: optimized performance, added new interaction flows, enhanced stability.  
+- Built **Cirkles (Next.js)** for AI-driven event discovery and map-based activity browsing.  
+- **Links:** [Play Store](https://play.google.com/store/apps/details?id=com.HBMStudios.U.n.I) | [App Store](https://apps.apple.com/us/app/u-n-i-exclusive-connections/id6468979653) | [Cirkles](https://www.cirkles.space/)
+
+### Software Engineer Intern | HeadStarter AI Fellowship (Jul 2024 – Sep 2025)
+- Built AI-based tools: **Scriptly** (multi-language script generator), **CodeFlash** (flashcard generator), and **UniBuddy** (AI chatbot for students).  
+- Developed automated content workflows and improved user engagement with AI-driven features.
+
+---
+
+## 💡 Projects
+
+- **AI-Bay:** AI-powered service marketplace with authentication, real-time chat, booking, and contract workflows.  
+- **GymVisa:** Multi-gym subscription app with offline videos, diet plans, and admin panel management.  
+  - [Play Store](https://play.google.com/store/apps/details?id=com.gymvisa.app) | [App Store](https://apps.apple.com/pk/app/gym-visa/id6743032385)  
+- **Mood Sync:** AI personal assistant with mood-based recommendations, OCR notes, and daily summaries.  
+- **CartQuest:** E-commerce platform (Next.js, Firebase) with full frontend and API integration.  
+  - [GitHub](https://github.com/abduvert/WEBTECH)
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=abduvert&show_icons=true&locale=en&layout=compact" alt="Abdullah's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduvert&layout=compact&hide=html,css" alt="Top Languages"/>
+</p>
+
+---
+
+## 📫 Contact Me
+- Email: **sajjadabdullah345@gmail.com**  
+- LinkedIn: [abduvert7](https://www.linkedin.com/in/abduvert7/)  
+- Portfolio: [abduvert.vercel.app](https://abduvert.vercel.app/)  
+
+---
+
+**Focus:** Mobile & Web App Development | Flutter | Front-End | Clean Architecture | Scalable, Modern UI/UX
